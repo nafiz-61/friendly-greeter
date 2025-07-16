@@ -35,3 +35,4 @@ let allFrnd = [
 for (let name of allFrnd) {
   greating(name);
 }
+
